@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h1>Dogs App</h1>
+      <h1 className="title">Dogs App</h1>
     </main>
   );
 }
